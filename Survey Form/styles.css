@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+    background-color: #7070ab;
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    color: #f0f0f1;
+}
+#description {
+    font-style: italic;
+}
+
+form {
+    background-color: #262645;
+    margin: 0 auto;
+    max-width: 500px;
+    min-width: 300px;
+}
+
+fieldset {
+    border: none;
+}
+
+label {
+    display: block;
+    text-align: left;  
+}
+
+input {
+    width: 100%;
+}
+
+#dropdown {
+    display: block;
+}
+
+select {
+    width: 100%;
+}
+
+legend {
+    text-align: left;
+}
+
+.inline {
+    width: unset;
+    vertical-align: middle;
+    margin: 0 0.5em 0 0;
+}
